@@ -1,0 +1,53 @@
+.minha-div {
+    text-align: center;
+    background-color: rgb(3, 97, 91);
+    padding: 0px;
+    margin-top: 0%;
+    word-spacing: 10px;
+    color: rgb(1, 40, 37);
+    border-radius: 10px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+
+}
+
+.eu-div {
+    border-radius: 10px;
+    padding: 0px;
+    background-color:rgb(3, 97, 91);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a{
+       color:rgb(1, 40, 37);
+
+}
+
+.ka{
+    color:rgb(19, 3, 97);
+}
+ 
+
+body{
+    background-color:  rgb(4, 205, 192);
+}
+
+.l{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
